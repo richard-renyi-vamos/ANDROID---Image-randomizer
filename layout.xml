@@ -1,0 +1,8 @@
+<Button
+    android:id="@+id/randomizeButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Randomize Image"
+    android:layout_centerHorizontal="true"
+    android:layout_below="@id/imageView"
+    android:layout_marginTop="16dp" />
